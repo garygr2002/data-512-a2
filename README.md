@@ -24,10 +24,10 @@ population -        The numeric population of the country named in the first fie
 
 The code also produces four graphs in '\*.png' format.  These are entitled:
 
-article_to_population_high_to_low.png - Article count divided by country population, as a percent, 10 highest
-article_to_population_low_to_high.png - Article count divided by country population, as a percent, 10 lowest
-hq_article_to_article_high_to_low.png - High-quality article count divided by article count, as a percent, 10 highest
-hq_article_to_article_low_to_high.png - High-quality article count divided by article count, as a percent, 10 lowest
+* article_to_population_high_to_low.png: Article count divided by country population, as a percent, 10 highest
+* article_to_population_low_to_high.png: Article count divided by country population, as a percent, 10 lowest
+* hq_article_to_article_high_to_low.png: High-quality article count divided by article count, as a percent, 10 highest
+* hq_article_to_article_low_to_high.png: High-quality article count divided by article count, as a percent, 10 lowest
 
 'High-quality' articles are defined as those that have a rating of 'FA' (Featured Article) or 'GA' (Good Article).  All others ratings are considered to be below premium quality.  Other possible ratings are: 'B' (B-class Article), 'C' (C-class Article), 'Start' (Start-class Article) or 'Stub' (Stub-class Article).  The countries considered by this project have names that match exactly between the two datasets, or can be sight-verified to reference the same country.  In the second category, the project maps the following countries that have different names in the two datasets:
 
