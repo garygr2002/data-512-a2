@@ -16,11 +16,11 @@ API documentation is provided at: https://www.mediawiki.org/wiki/ORES
 
 The code produces a CSV formatted file named 'data-512-a2.csv' with the following fields:
 
-country -           The country related to the article
-article_name -      The name of the article
-revision_id -       The revision ID of the article
-article_quality -   The quality of the article, as retrieved from ORES (see above)
-population -        The numeric population of the country named in the first field
+* country - The country related to the article
+* article_name - The name of the article
+* revision_id - The revision ID of the article
+* article_quality - The quality of the article, as retrieved from ORES (see above)
+* population - The numeric population of the country named in the first field
 
 The code also produces four graphs in '\*.png' format.  These are entitled:
 
