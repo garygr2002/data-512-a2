@@ -31,17 +31,15 @@ The code also produces four graphs in '\*.png' format.  These are entitled:
 
 'High-quality' articles are defined as those that have a rating of 'FA' (Featured Article) or 'GA' (Good Article).  All others ratings are considered to be below premium quality.  Other possible ratings are: 'B' (B-class Article), 'C' (C-class Article), 'Start' (Start-class Article) or 'Stub' (Stub-class Article).  The countries considered by this project have names that match exactly between the two datasets, or can be sight-verified to reference the same country.  In the second category, the project maps the following countries that have different names in the two datasets:
 
-Wikipedia Data            PRB Data
-------------------------  -----------------------
-'East Timorese'           'Timor-Leste'
-'Hondura'                 'Honduras',
-'Rhodesian'               'Zimbabwe'
-'Salvadoran'              'El Salvador'
-'Samoan'                  'Samoa'
-'São Tomé and Príncipe'   'Sao Tome and Principe'
-'Somaliland'              'Somalia'
-'South African Republic'  'South Africa'
-'South Korean'            'Korea, South'
+* Wikipedia name - 'East Timorese'; PRB name - 'Timor-Leste'
+* Wikipedia name - 'Hondura'; PRB name - 'Honduras',
+* Wikipedia name - 'Rhodesian'; PRB name - 'Zimbabwe'
+* Wikipedia name - 'Salvadoran'; PRB name - 'El Salvador'
+* Wikipedia name - 'Samoan'; PRB name - 'Samoa'
+* Wikipedia name - 'São Tomé and Príncipe'; PRB name - 'Sao Tome and Principe'
+* Wikipedia name - 'Somaliland'; PRB name - 'Somalia'
+* Wikipedia name - 'South African Republic'; PRB name - 'South Africa'
+* Wikipedia name - 'South Korean'; PRB name - 'Korea, South'
 
 In all other cases a country is not considered in the findings if it appears in one dataset, but not the other.
 
